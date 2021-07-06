@@ -1,1 +1,1 @@
-# <name-of-new-GitHub-repo>
+# MSPChallenge-Example-Geoserver
